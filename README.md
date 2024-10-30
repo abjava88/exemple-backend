@@ -15,7 +15,9 @@ First, clone the repository to your local machine:
 git clone https://github.com/username/repository-name.git
 cd repository-name
 
+## Install dependencies
 npm install
 
+## Start the server
 npm start
 
